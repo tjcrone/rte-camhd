@@ -8,5 +8,6 @@
 | 4/20/2018 | 1000  | Meeting                          |
 | 4/23/2018 | 1300  | Meeting                          |
 | 4/26/2018 | 1300  | testing for image hashing begun  |
+| 4/26/2018 | 1900  | image hash graphical representation being developed |
 
 
