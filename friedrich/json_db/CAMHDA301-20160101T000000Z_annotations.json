@@ -1,0 +1,36 @@
+{
+	"FileInfo": {
+        "FileURL": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+        "Duration": 839.338562011719,
+        "NumFrames": 25155,
+        "FileSize": 13000,
+		"FrameMetaFile": "/CAMHDA301-20160101T000000Z_frame_meta.json"
+	},
+    "Frames": [
+        {
+            "FrameNumer": 0,
+			"AnnotationCount": 2,
+			"Annotations": [
+				{
+					"ID": 0.0,
+					"Text": "That tube worm looks suspicious."
+				},
+				{
+					"ID": 0.1,
+					"Text": "Riftia pachyptila"
+				}
+			]
+
+        },
+        {
+            "FrameNumer": 1,
+			"AnnotationCount": 1,
+			"Annotations": [
+				{
+					"ID": 1.0,
+					"Text": "Oasisia alvinae"
+				}
+			]
+        }
+    ]
+}

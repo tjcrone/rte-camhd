@@ -1,0 +1,20 @@
+{
+	"Files": [
+		{
+	        "FileURL": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+	        "Duration": 839.338562011719,
+	        "NumFrames": 25155,
+	        "FileSize": 13000,
+			"FrameMetaFile": "/CAMHDA301-20160101T000000Z_frame_meta.json",
+			"AnnotationsFile": "/CAMHDA301-20160101T000000Z_annotations.json"
+		},
+		{
+	        "FileURL": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+	        "Duration": 839.338562011719,
+	        "NumFrames": 25155,
+	        "FileSize": 13000,
+			"FrameMetaFile": "/CAMHDA301-20160101T000000Z_frame_meta.json",
+			"AnnotationsFile": "/CAMHDA301-20160101T000000Z_annotations.json"
+		} 	
+    ]
+}
