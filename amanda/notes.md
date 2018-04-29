@@ -9,5 +9,6 @@
 | 4/23/2018 | 1300  | Meeting                          |
 | 4/26/2018 | 1300  | testing for image hashing begun  |
 | 4/26/2018 | 1900  | image hash graphical representation being developed |
+| 4/28/2018 | 2000  | began processing hash for hexbin analysis |
 
 
