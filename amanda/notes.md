@@ -10,5 +10,7 @@
 | 4/26/2018 | 1300  | testing for image hashing begun  |
 | 4/26/2018 | 1900  | image hash graphical representation being developed |
 | 4/28/2018 | 2000  | began processing hash for hexbin analysis |
+| 5/15/2018 | 1000  | Skype meeting discussing next steps |
+| 5/15/2018 | 1100  | Set up dask delayed functions and restructed hexbin analysis|
 
 
