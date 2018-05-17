@@ -12,5 +12,6 @@
 | 4/28/2018 | 2000  | began processing hash for hexbin analysis |
 | 5/15/2018 | 1000  | Skype meeting discussing next steps |
 | 5/15/2018 | 1100  | Set up dask delayed functions and restructed hexbin analysis|
+| 5/16/2018 | 2030  |  Scheduling tasks to workers|
 
 
