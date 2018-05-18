@@ -13,5 +13,6 @@
 | 5/15/2018 | 1000  | Skype meeting discussing next steps |
 | 5/15/2018 | 1100  | Set up dask delayed functions and restructed hexbin analysis|
 | 5/16/2018 | 2030  |  Scheduling tasks to workers|
+|5/18/2018 |  1600  | Tried to get imagehash working with workers|
 
 
