@@ -16,5 +16,7 @@
 |5/18/2018 |  1600  | Tried to get imagehash working with workers|
 | 5/22/2018 | 2000  | Watched PyData keynote speech, further work on workers and wavelet hash |
 | 5/23/2018 | 1000  | Video call, applying wavelet hash, exploring ways to display hash |
+| 5/24/2018 | 1300  | Debugging error from phash and avg hash calls |
+| 5/24/2018 | 1600  | Continuation of the above and creation of binary maps for all hashes |
 
 
