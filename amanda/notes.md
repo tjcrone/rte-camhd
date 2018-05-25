@@ -18,5 +18,6 @@
 | 5/23/2018 | 1000  | Video call, applying wavelet hash, exploring ways to display hash |
 | 5/24/2018 | 1300  | Debugging error from phash and avg hash calls |
 | 5/24/2018 | 1600  | Continuation of the above and creation of binary maps for all hashes |
+| 5/24/2018 | 1700  |    |
 
 
