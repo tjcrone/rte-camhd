@@ -2,8 +2,8 @@
 
 #### Activity Log
 
-|Date       | Time  | Activity                         |
-|-----------|-------|---                               |
-| 4/20/2018 | 0930  | Prepare for meeting              |
+|Date       | Start Time | End Time | Activity                                  |
+|-----------|------------|----------|-------------------------------------------|
+| 4/20/2018 | 0930       | 1115     | Prepare for meeting                       |
 
 
